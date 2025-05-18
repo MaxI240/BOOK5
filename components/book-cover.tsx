@@ -56,7 +56,7 @@ export function BookCover({ onOpen }: BookCoverProps) {
               className="text-center z-10"
             >
               <div className="relative inline-block">
-                <h2 className="text-3xl md:text-5xl font-bold mb-4 drop-shadow-lg text-[#e1bee7]">My Diary</h2>
+                <h2 className="text-3xl md:text-5xl font-bold mb-4 drop-shadow-lg text-[#e1bee7]">DEAR CHOTIBILLO</h2>
                 {/* Decorative underline */}
                 <motion.div
                   className="absolute -bottom-2 left-0 right-0 h-2 bg-[#ff9800] rounded-full opacity-50"
